@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="HuaWeiRuanTiao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HuaWeiRuanTiao_jar</output-path>
+    <root id="root">
+      <element id="archive" name="HuaWeiRuanTiao.jar">
+        <element id="module-output" name="HuaWeiRuanTiao" />
+      </element>
+    </root>
+  </artifact>
+</component>
