@@ -18,6 +18,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         schedule();
+
     }
 
     private static void schedule() throws IOException {
@@ -78,6 +79,10 @@ public class Main {
     }
 
     private static boolean readFrame() throws IOException {
+        System.err.println(1);
+        System.err.println(2);
+
         return  false;
     }
+
 }
